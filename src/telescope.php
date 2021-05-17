@@ -1,6 +1,6 @@
 <?php
 
-namespace PHPMailer\PHPMailer;
+namespace telescope\telescope;
 
 class Exception extends \Exception
 {
