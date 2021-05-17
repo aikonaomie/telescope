@@ -1,2 +1,2 @@
-# telescope
+# Telescope
 新星
